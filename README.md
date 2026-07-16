@@ -37,4 +37,4 @@ Analyze the relationship between Bitcoin market sentiment and trader performance
 - Trading behavior during different market conditions
 - Coin-wise performance comparison
 
-## Repository Structure
+
